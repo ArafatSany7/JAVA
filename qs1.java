@@ -56,5 +56,7 @@ public class qs1 {
                 System.out.println("Eida kono kotha :( ");
         }
 
+        System.out.println("cheking git repo");
+
     }
 }
