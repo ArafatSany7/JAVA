@@ -57,6 +57,7 @@ public class qs1 {
         }
 
         System.out.println("cheking git repo");
+        System.out.println("final check");
 
     }
 }
