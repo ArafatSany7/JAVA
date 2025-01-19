@@ -56,8 +56,7 @@ public class qs1 {
                 System.out.println("Eida kono kotha :( ");
         }
 
-        System.out.println("cheking git repo");
-        System.out.println("final check");
+        System.out.println("======Loop start here========");
 
     }
 }
