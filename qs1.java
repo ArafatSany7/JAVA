@@ -58,5 +58,33 @@ public class qs1 {
 
         System.out.println("======Loop start here========");
 
+        // For loop
+        System.out.println("\n");
+        System.out.println("for loop");
+
+        for (int counter = 0; counter < 5; counter++) {
+            System.out.println(counter);
+        }
+
+        // while loop
+        System.out.println("\n");
+        System.out.println("=======while loop========");
+        int i = 0;
+
+        while (i < 10) {
+            System.out.println(i);
+            i++;
+        }
+
+        // DO while loop
+        System.out.println("\n");
+        int j = 0;
+
+        System.out.println("==========do while loop=========");
+        do {
+            System.out.println(j);
+            j++;
+        } while (j <= 7);
+
     }
 }
