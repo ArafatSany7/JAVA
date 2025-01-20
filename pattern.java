@@ -58,9 +58,9 @@ public class pattern {
 
         System.out.println("=======Inverted half pyramid========");
 
-        for (int i = 0; i <= n; i++) {
+        for (int i = 0; i <= m; i++) {
             // first inner lopp for spaces
-            for (int j = 0; j <= n - i; j++) {
+            for (int j = 0; j <= m - i; j++) {
                 System.out.print(" ");
             }
             // second inner loop for *
@@ -69,6 +69,15 @@ public class pattern {
             }
 
             System.out.println('*');
+        }
+
+        System.out.println("========Half pyramid of number");
+
+        for (int i = 0; i <= m; i++) {
+            for (int j = 0; j <= i; j++) {
+                System.out.print(j);
+            }
+            System.out.println(' ');
         }
 
     }
