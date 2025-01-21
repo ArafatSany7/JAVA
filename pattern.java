@@ -80,5 +80,7 @@ public class pattern {
             System.out.println(' ');
         }
 
+        System.out.println("we'll start again");
+
     }
 }
