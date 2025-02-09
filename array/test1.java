@@ -7,7 +7,7 @@ public class test1 {
 
         // int[] marks = new int[3];
         // marks[0] = 97;
-        // marks[1] = 96;
+        // marks[1] = 96;o
         // marks[2] = 43;
         // int[] marks = {97, 95, 92};
         Scanner sc = new Scanner(System.in);
